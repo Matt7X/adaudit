@@ -1,5 +1,5 @@
 # adaudit
-PowerShell Script to perform a quick AD audit
+PowerShell Script to perform a quick AD audit. Forked from:
 ```
 _____ ____     _____       _ _ _
 |  _  |    \   |  _  |_ _ _| |_| |_
